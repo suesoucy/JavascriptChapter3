@@ -7,7 +7,7 @@ Project 3.2
 4. Create a for loop with a counter that goes from 0 to less than the length of the captions array in increments of 1. With each iteration, add the following text to the value of the htmlCode variable:
 
 See book for details below, readme not letting html code
-<figure>
+ <figure>
   
 <img alt=’’ src=’slidei.jpg’/>
 
